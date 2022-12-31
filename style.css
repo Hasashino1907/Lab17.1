@@ -1,0 +1,16 @@
+.bg-image-1 {
+  background-image: url(images/A1.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+.bg-image-2 {
+  background-image: url(images/A2.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-image-3 {
+  background-image: url(images/A3.jpg);
+  background-size: cover;
+  height: 100vh;
+}
